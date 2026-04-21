@@ -1,15 +1,16 @@
 # 🐧 Guía de comandos Linux
 
-## 🔧 Comandos básicos
+Colección de comandos utilizados en administración de servidores Linux.
 
-### Ver puertos
-ss -tulpn
-
-### Ver procesos
+## 🔧 Procesos
 ps aux
 
-### Servicios
-systemctl status
+## 🌐 Puertos
+ss -tulpn
 
-### Reiniciar servicio
+## ⚙️ Servicios
+systemctl status
 systemctl restart
+
+## 🎯 Uso
+Estos comandos fueron utilizados en la configuración de un servidor Ubuntu para despliegue de aplicaciones.
