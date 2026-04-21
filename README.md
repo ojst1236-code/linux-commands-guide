@@ -1,3 +1,6 @@
+## 📚 Aprendizaje
+Este proyecto me permitió fortalecer conocimientos en administración de servidores Linux y despliegue de aplicaciones.
+
 # 🐧 Guía de comandos Linux
 
 Colección de comandos utilizados en administración de servidores Linux.
